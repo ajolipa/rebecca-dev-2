@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "ajolipa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110847635?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "ajolipa",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-11-10T07:53:39.776Z",
-    "updated_at": "2025-11-10T07:53:39.776Z"
-  }
+    "updated_at": "2025-11-10T07:53:39.776Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "36b939cf-cf79-4427-9291-96018a4eb0c2": {
+      "content": [],
+      "created_at": "2025-11-10T07:53:39.784Z",
+      "created_by": "ajolipa",
+      "title": "Rebecca Dev episode II the empire strikes back",
+      "updated_at": "2025-11-10T07:53:39.784Z",
+      "updated_by": "ajolipa",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "36b939cf-cf79-4427-9291-96018a4eb0c2"
+  ]
 }
