@@ -15,7 +15,11 @@
       "file_type": "Video",
       "file_url": "https://youtu.be/yn5EYsBEv3A?si=hKgUDnRKLu61gjbN",
       "duration": 0,
-      "caption_set": [],
+      "caption_set": [
+        {
+          "annotation_page_id": "6c36a711-e536-4daa-a5f6-6c51113ef39d"
+        }
+      ],
       "set_sort": []
     }
   },
@@ -34,7 +38,7 @@
   "label": "Kaori Sakamoto SkAm 2017",
   "created_at": "2025-11-13T01:07:00.508Z",
   "created_by": "ajolipa",
-  "updated_at": "2025-11-13T01:07:42.461Z",
+  "updated_at": "2025-11-13T01:17:42.482Z",
   "updated_by": "ajolipa",
   "av_file_order": [
     "3b3017fc-2c33-4722-8a0f-c892274c27a5",
