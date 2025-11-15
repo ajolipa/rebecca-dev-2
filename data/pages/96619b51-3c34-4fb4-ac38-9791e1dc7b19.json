@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2025-11-15T17:52:11.455Z",
+  "created_by": "ajolipa",
+  "title": "Annotation CSV test",
+  "slug": "annotation-csv-test",
+  "updated_at": "2025-11-15T17:52:11.455Z",
+  "updated_by": "ajolipa",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "6f36e988-59dd-4283-af80-0640962677c8"
+  }
+}
