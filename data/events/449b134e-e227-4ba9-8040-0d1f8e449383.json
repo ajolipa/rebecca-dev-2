@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "4685bb76-a896-4109-87a4-6fdc2f6c4cbc": {
+      "label": "AV File 1",
+      "file_url": "https://americanarchive.org/media/cpb-aacip-59-40xpp1fv/download",
+      "duration": 3757,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-01-05T18:29:56.389Z",
+  "created_by": "ajolipa",
+  "label": "Where We Are; News Report on Current Events in Unalaska",
+  "updated_at": "2026-01-05T18:29:56.389Z",
+  "updated_by": "ajolipa",
+  "rights_statement": ""
+}
