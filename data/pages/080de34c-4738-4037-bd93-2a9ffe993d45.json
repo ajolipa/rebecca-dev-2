@@ -35,10 +35,10 @@
   "created_by": "ajolipa",
   "title": "Kaori Sakamoto SkAm 2017",
   "slug": "kaori-sakamoto-skam-2017",
-  "updated_at": "2025-11-15T04:38:58.357Z",
+  "updated_at": "2026-01-28T04:15:40.905Z",
   "updated_by": "ajolipa",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "8df577a2-5719-4650-bf1e-6f13aecc01a7"
   }
